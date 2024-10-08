@@ -1,0 +1,18 @@
+/* SideBar.css */
+
+.side-bar-container {
+    color: black;
+    border: 1px solid black;
+    height: 100vh;
+    width: 19.6vh;
+    background-color: white;
+    position: fixed;
+    top: 43px;
+    left: -1px;
+    z-index: 1;
+    border-top: 0px;
+}
+
+.side-bar-content {
+    padding-left: 10px;
+}

@@ -1,0 +1,27 @@
+/* TopToolbar.css */
+.tool-bar-container {
+    order: 1px solid black;
+    height: 43px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    color: white;
+}
+
+.shape-file-btn {
+    margin-right: 20px;
+    height: 30px;
+}
+
+.tool-bar-title{
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 1rem;
+    margin-left: 34px;
+}
