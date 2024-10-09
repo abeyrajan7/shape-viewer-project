@@ -15,4 +15,7 @@
 
 .side-bar-content {
     padding-left: 10px;
+    text-align: justify;
+    top: 30px;
+    position: relative;
 }
