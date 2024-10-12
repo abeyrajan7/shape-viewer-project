@@ -34,3 +34,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+The .txt file we upload for shapes will be of the format
+Polygon, 327,188 168,200 168,109 93,187 327,488 0000ff
+Rectangle, 100, 0, 0, 90, 160, ff0000
+
+For polygon, we give theindex position first, then all the rest of the cordinates one after the other separated with a space.
+
+No ogf Iterations completed : 5
+bonus features implemented: NILL
